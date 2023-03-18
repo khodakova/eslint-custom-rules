@@ -1,0 +1,3 @@
+build/*
+**/*/dist/*
+eslint-custom-rules
